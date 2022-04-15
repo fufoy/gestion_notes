@@ -13,4 +13,12 @@ public class etudiant{
 		
 	}
 	
+	
+	public String toString()
+	{
+		return this.nom+ " : "+this.note; 
+		
+	}
+	
+	
 }
